@@ -103,7 +103,7 @@ Detailed Research, Documentation, Roles And The Uses  Of  Azure Container App Fe
    - Diagnose And Solve Problem
   
      Azure Container Apps includes a built-in “Diagnose and solve problems” tool in the Azure Portal that helps you troubleshoot common issues like deployment failures, scaling delays, and connectivity problems.
-     This tool provides guided diagnostics for your container app. It automatically checks for common issues and offers actionable insights based on your app’s configuration and runtime behavior.
+     This tool provides guided diagnostics for your container app. It automatically checks for common issues and offers actionable insights based on your app’s configuration and runtime behavior.Some                  troubleshooting Tips:View Console Logs, Check Revision Status, Verify Image Accessibility, and Use Azure Monitor.
   
      - Error deploying new revision
      - Provisioning delays
@@ -113,12 +113,31 @@ Detailed Research, Documentation, Roles And The Uses  Of  Azure Container App Fe
 
 
 
-
-
      <img width="935" height="477" alt="image" src="https://github.com/user-attachments/assets/bec93350-15db-467e-9b07-54ea483ad0ce" />
 
 
    - Resource Visualizer
+  
+     Azure Container Apps can be visualized using the Azure Resource Visualizer, a tool in the Azure Portal that automatically generates interactive diagrams of your cloud resources and their relationships.
+     Azure Resource Visualizer is a built-in feature that helps you understand the architecture of your deployed resources—including Azure Container Apps—by showing how they connect to other services like             environments, registries, secrets, and monitoring tools. Some benefit for Container App Users below,
+  
+
+
+      - Architecture clarity: See how your app fits into the broader cloud environment.
+  
+     - Troubleshooting: Identify misconfigured or missing dependencies.
+    
+     - Security reviews: Visualize access paths and network boundaries
+    
+     - Documentation: Export diagrams for team sharing or compliance.
+  
+     - Interactive diagrams: Clickable nodes representing resources and their dependencies.
+    
+     - Real-time mapping: Reflects the current state of your Azure environment.
+    
+     - No setup required: Automatically available in the Azure Portal.
+
+
 
      <img width="960" height="425" alt="image" src="https://github.com/user-attachments/assets/08d6045f-768a-4f99-916d-2a224981fa9a" />
 
