@@ -41,6 +41,9 @@ Detailed Research, Documentation, Roles And The Uses  Of  Azure Container App Fe
       - Application Url
       - Container App Environment 
       - Environmental Type
+      - Get Started
+      - Properties
+      - Monitoring
       - Log Analytics
 
 
@@ -144,6 +147,24 @@ Detailed Research, Documentation, Roles And The Uses  Of  Azure Container App Fe
 
  
    - Application
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    - Setting
 
